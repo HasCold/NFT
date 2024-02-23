@@ -1,0 +1,26 @@
+Why IPFS ?
+
+- The frontend is typically hosted on traditional web servers or cloud platforms like AWS, Google Cloud, or Heroku. It communicates with the blockchain backend to fetch data, submit transactions, and display information to users.
+
+Files + Smart Contract + Frontend  ===   Decentralized Application
+
+We can definitely store our files, photos, videos and audios on our blockchain but the cost of storing is very high means we have to pay the gas fee which can't be affordable by the organizations and Start-ups. So here comes the alternate solution IPFS (InterPlanetary File System)  
+
+- IPFS is a peer to peer, decentralized and distributed file system. It is not a blockchain but a filesystem which works on the principle of blockchain technology.
+- IPFS uses DHT(distributed hash table) and Merkle DAG(directed acyclic graph) data structures.
+- It uses a protocol similar to BitTorrent to decided how to move the data around the network.
+- It uses a Content Addressing rather than Location Addressing. 
+
+
+------------------------------- Location Addressing ----------------------------------
+
+https://www.youtube.com     --->>    Locate on the Server
+
+
+------------------------------- Content Addressing -----------------------------------
+
+Document, Audio,   --->>  IPFS  --->>  SHA256 Algorithm   --->>   Hash (12612asdjddasdasuasg1231612bjv211jhvvjh12) 
+Video etc.                            (Or any other algo)          This has 64 hexadecimal characters. Each character is of 4 bits
+                                                                  So in total it has 64 * 4 bits = 256 bits.     
+
+Hash is the unique identity which can be used to locate any information in the IPFS.

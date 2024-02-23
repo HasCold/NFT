@@ -1,0 +1,10 @@
+                            IPFS                                          HTTP
+1. Content Addressing                                           Location Addressing
+2. No one control it                                            Controlled by the location owner
+3. Efficient                                                    Not Efficient
+4. Bandwith is higher in the terms of IPFS.                     Bandwith is less performant as compared to the IPFS.
+5. Immutable                                                    Mutable
+6. Cannot go down because there are many nodes                  Can go down.
+
+
+IPFS Node :- The machine that runs IPFS S/W to store and retrieve files from the IPFS network is called IPFS node.

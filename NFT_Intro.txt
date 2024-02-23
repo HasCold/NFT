@@ -1,0 +1,36 @@
+Fungible :- Means the thing which can be exchangeable  with another of exactly same type.
+e.g. :-  Currencies, Commodities, Assets and precious stone;
+
+Non-Fungible :- The quality of an asset that are similar but not exchangeable. like real-estate, art, music and sports car.
+
+Value :- The amount that an open market is prepared to pay for something.
+
+What is NFT ?
+. In layman terms NFT is a kind of collectible, similar to a pokemon card or painting.
+The procedure of converting your work in an NFT is called minting.
+
+
+What makes NFT unique?
+. The tech behind NFTs which is parallel to the cryptocurrencies such as Ethereum and Bitcoin as it depends on Blockchain.
+. Feeling of ownership. Since every transaction is recorded on Blockchain. 
+
+
+Working of NFT :- 
+
+Image(The image get stored at IPFS or server) + ID_1   ===   NFT  ---
+                                                                     | 
+                                                                     | -->> These two are not equal.
+                                                                     | 
+Image(The image get stored at IPFS or server) + ID_2   ===   NFT  ---
+
+
+ERC Standards for NFT :- 
+
+ERC 721, ERC 1155, ERC 994, ERC 420, ERC 809
+
+ERC 721 :- It implememted a standard interface between applications and smart contract driven tokens on Ethereum.
+Some Important functions of ERC 721 :
+                Token Trasnfer
+                Approval
+                Owner of a token
+                Balance of tokens
