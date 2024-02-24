@@ -1,0 +1,11 @@
+npm i hardhat --D
+
+npx hardhat init  ---  To create and initialize the project
+
+npm i @openzeppelin/contracts@4.3.3
+
+npm install --save-dev @nomicfoundation/hardhat-ethers ethers
+
+
+Compile your contracts :- npx hardhat compile
+npx hardhat run scripts/deploy.js --network sepolia
