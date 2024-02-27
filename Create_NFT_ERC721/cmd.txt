@@ -9,3 +9,7 @@ npm install --save-dev @nomicfoundation/hardhat-ethers ethers
 
 Compile your contracts :- npx hardhat compile
 npx hardhat run scripts/deploy.js --network sepolia
+
+
+npm i @alch/alchemy-web3 ;  docs:- https://github.com/alchemyplatform/alchemy-web3/blob/master/README.md
+
