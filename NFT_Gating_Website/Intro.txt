@@ -1,0 +1,44 @@
+NFT Gating Concept :- 
+
+An NFT gating website refers to a platform or service that implements a gatekeeping mechanism through Non-Fungible Tokens (NFTs).
+
+The concept of NFT gating involves restricting access to files, documents, videos, etc. based on specific conditions or requirements set by the creator or owner.
+
+These conditions can include criteria such as ownership of a specific NFT.
+
+Benefits :-
+
+Scarcity and Exclusivity
+
+Enhanced Collectability
+
+Community Building
+
+Rewarding Engagement
+
+Monetization Opportunities
+
+Content Protection
+
+
+Tech Using :-
+ Express, Node, React, Blockchain and QuickNode API(that will monitor your blockchain continuously).
+
+
+Steps to follow :- 
+
+Deploy NFT contract
+    |
+    |
+Create Server -->> fetchNFTs
+    |
+    |
+    |                           Wallet
+Create React Components  -->>   Home
+    |                           Members
+    |
+    |
+    |                   ngrok
+Create Webhooks  -->>  notfication.js
+                       destination.js
+
