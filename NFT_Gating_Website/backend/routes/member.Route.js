@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { fetchNFTs } from "../Controller/member.Controller.js";
+import { fetchNFTs } from "../controller/member.Controller.js";
 
 const router = Router();
 
